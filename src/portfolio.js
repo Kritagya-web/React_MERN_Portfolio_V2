@@ -626,7 +626,7 @@ const publicationsHeader = {};
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_kritagya.png",
+    profile_image_path: "animated_kritagya.jpeg",
     description:
       "Get in touch to collaborate on innovative projects or discuss opportunities in DS, ML, MERN, DevOps, and Python. Let’s build something impactful.",
   },
