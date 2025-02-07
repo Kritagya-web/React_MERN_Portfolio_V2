@@ -20,7 +20,8 @@
 </p>
 <p align="center"> 
     <a href="https://kritagya-web.github.io" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
+    <img width="946" alt="image" src="https://github.com/user-attachments/assets/027efcfa-4621-46f5-8b39-be00903b9770" />
+"></img>
   </a>
 </p>
 
@@ -37,7 +38,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://beautiful-stroopwafel-1722a5.netlify.app/#/)**
+To view a live example, **[click here](https://kritagyakumraportfolio.netlify.app/)**
 
 # Clone And Use 📋
 
@@ -161,7 +162,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 <p align="center"> 
     <a href="https://beautiful-stroopwafel-1722a5.netlify.app/#/" target="_blank">
-    <img src="images/old-landing-page.png"></img>
+    <img width="945" alt="image" src="https://github.com/user-attachments/assets/85c8bcd6-70b0-40c7-8b43-5422aff7d8a2" />
   </a>
 </p>
 
